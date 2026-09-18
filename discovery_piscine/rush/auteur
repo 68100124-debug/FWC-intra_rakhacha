@@ -1,5 +1,1 @@
-cd ~/discovery_piscine
-mkdir -p rush
-cd rush
-printf 'rakhacha\napuduan\n' > auteur
-cat -e auteur
+'rakhacha\napuduan\n'
