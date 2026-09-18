@@ -1,0 +1,5 @@
+cd ~/discovery_piscine
+mkdir -p rush
+cd rush
+printf 'loginคนที่1$\nloginคนที่2$\n' > auteur
+cat -e auteur
